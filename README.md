@@ -1,2 +1,2 @@
-# pknet-web
+# PkNet Web
 Official repository for PkNet Web Releases
